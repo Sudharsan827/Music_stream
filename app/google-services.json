@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099310742549",
+    "project_id": "podcast-156cd",
+    "storage_bucket": "podcast-156cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099310742549:android:278e0f72a2fc5f0a96e21c",
+        "android_client_info": {
+          "package_name": "np.com.bimalkafle.musicstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9BTyk9X5yByv6fLLcjyGmrV-bmsnA00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
